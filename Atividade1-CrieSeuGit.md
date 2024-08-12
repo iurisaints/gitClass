@@ -1,6 +1,6 @@
 ## Enunciado Revisado para os Alunos
 
-**"Construindo seu Próprio Git: Um Projeto em TypeScript**
+**Construindo seu Próprio Git: Um Projeto em TypeScript**
 
 Neste projeto, você será desafiado a criar um sistema de controle de versão simplificado, similar ao Git, utilizando os conceitos de orientação a objetos em TypeScript. Imagine construir uma ferramenta que rastreia cada mudança em seu código, permitindo que você volte no tempo, crie diferentes versões do seu projeto e colabore com outros desenvolvedores de forma eficiente.
 
@@ -54,9 +54,3 @@ Neste projeto, você será desafiado a criar um sistema de controle de versão s
 * Uma compreensão profunda dos princípios de um sistema de controle de versão.
 * Habilidades sólidas em programação orientada a objetos em TypeScript.
 * Um projeto prático para adicionar ao seu portfólio.
-
-**Prepare-se para embarcar nessa jornada e construir seu próprio Git!**"
-
-**Este enunciado foi elaborado para ser mais envolvente e motivador para os alunos, destacando os benefícios do projeto e os desafios a serem superados. Ele também fornece uma visão geral das etapas a serem seguidas e dos conceitos-chave envolvidos.**
-
-**Você pode personalizar ainda mais este enunciado, adicionando exemplos específicos, dicas adicionais ou adaptando-o ao nível de conhecimento dos seus alunos.**
