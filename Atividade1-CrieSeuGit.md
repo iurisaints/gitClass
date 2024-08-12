@@ -2,6 +2,10 @@
 
 Neste projeto, você será desafiado a criar um sistema de controle de versão simplificado, similar ao Git, utilizando os conceitos de orientação a objetos em TypeScript. Imagine construir uma ferramenta que rastreia cada mudança em seu código, permitindo que você volte no tempo, crie diferentes versões do seu projeto e colabore com outros desenvolvedores de forma eficiente.
 
+### Atividade 1: Crie um Diagrama de como funciona o GIT e seu fluxo.
+
+### Atividade 2: Criar um código orientado a objeto que simule um git:
+
 **Conceitos-chave:**
 
 * **Commits:** Cada commit representa um "instantâneo" do seu projeto em um determinado momento.
@@ -32,22 +36,6 @@ Neste projeto, você será desafiado a criar um sistema de controle de versão s
 * **Gerenciamento de conflitos:** Como lidar com situações em que duas versões diferentes de um mesmo arquivo são mescladas?
 * **Otimização:** Como garantir o bom desempenho do seu sistema, especialmente para repositórios grandes?
 * **Funcionalidades avançadas:** Explore a implementação de tags, submódulos e suporte a redes remotas.
-
-**Por que este projeto é importante?**
-
-* **Aprofundamento em orientação a objetos:** Aplique os conceitos de classes, objetos, herança e polimorfismo em um projeto prático.
-* **Compreensão do funcionamento do Git:** Entenda os mecanismos internos de um dos sistemas de controle de versão mais populares.
-* **Desenvolvimento de habilidades de resolução de problemas:** Enfrente desafios complexos e encontre soluções criativas.
-* **Construção de um portfólio:** Crie um projeto que demonstra suas habilidades em programação e desenvolvimento de software.
-
-**Dicas:**
-
-* **Comece simples:** Implemente as funcionalidades básicas primeiro.
-* **Utilize diagramas:** Crie diagramas de classes para visualizar a estrutura do seu sistema.
-* **Teste seu código:** Escreva testes unitários para garantir a qualidade do seu código.
-* **Consulte a documentação do Git:** A documentação oficial do Git é uma fonte valiosa de informações.
-
-**Ao final deste projeto, você terá:**
 
 * Uma compreensão profunda dos princípios de um sistema de controle de versão.
 * Habilidades sólidas em programação orientada a objetos em TypeScript.
